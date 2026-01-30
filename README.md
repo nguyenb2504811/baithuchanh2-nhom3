@@ -30,7 +30,7 @@
 
 ### ☁️ Phần 3: Google Docs
 * **Nhiệm vụ 3.1 - 3.3:** Chuẩn hóa định dạng trang (Page Setup), Font chữ và Paragraph; xây dựng nội dung văn bản.
-* **Nhiệm vụ 3.4:** Quản lý làm việc nhóm: Chia sẻ quyền, kiểm tra lịch sử chỉnh sửa (**Version History**) và tính năng họp trực tuyến (**Meeting integration**).
+* **Nhiệm vụ 3.4:** Quản lý làm việc nhóm: Chia sẻ quyền, kiểm tra lịch sử chỉnh sửa (**Version History**) và tính năng họp trực tuyến (**Meeting integration**)
 
 ---
 *Cập nhật lần cuối: 30/01/2026*
